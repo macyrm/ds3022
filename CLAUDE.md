@@ -54,3 +54,8 @@ Don't commit generated or large files — warn before staging things like:
 - Always enable error handling (try/except/etc.) and logging to local files.
 - Keep python to single file implementations unless a separate class is required. Ask before creating a separate class file.
 - Always comment functions or important stanzas of code to explain them to others.
+- Use plain language
+- Concision is key, I want concise answers back to me and I also want concise code
+
+## Shortcut Commands
+- 'git pom' - means Git add, commit, push (the relevant file(s) you have updated).
